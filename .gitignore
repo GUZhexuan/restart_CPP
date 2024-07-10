@@ -1,1 +1,7 @@
-*.dYSM     # C++ debug byproduct
+# Mac Debug Byproduct
+*.dSYM        
+# Mac Cache  
+*/.DS_Store     
+.DS_Store   
+# Leetcode Problem: Exutable File
+wordBreak
